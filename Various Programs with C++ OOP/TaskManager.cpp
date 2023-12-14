@@ -1,9 +1,6 @@
-// File name: A3_SheetPb5_20221077.cpp
 // Purpose: Task Manager
 // Author(s): Seif Khaled
-// ID(s): 20221077
-// Section: S1,S2
-// Date: Dec 7, 2023
+// Last Modification Date: Dec 13, 2023
 
 #include <iostream>
 #include <iomanip> // library for formatted output
@@ -192,3 +189,5 @@ int main() {
 
 // Version: v1.0 > Base Task Manager. [Dec 6, 2023]
 // Version: v1.1 > Add ASCII Art Title and Colors. [Dec 7, 2023]
+// Version: v1.1.1 > Fix some bugs. [Dec 12, 2023]
+// Version: v1.1.2 > Fix some bugs. [Dec 13, 2023]

@@ -1,9 +1,6 @@
-// File name: A3_SheetPb2_20221077.cpp
 // Purpose: Document Comparator
 // Author(s): Seif Khaled
-// ID(s): 20221077
-// Section: S1,S2
-// Date: Dec 6, 2023
+// Date: Dec 13, 2023
 
 #include <iostream>
 #include <fstream>  // for file input/output operations
@@ -204,3 +201,4 @@ int main() {
 // Version: v1.0 > Base DoComparator. [Dec 5, 2023]
 // Version: v1.1 > Add ASCII Art Title and Colors. [Dec 6, 2023]
 // Version: v1.2 > Add Typing Animation in Some Outputs. [Dec 6, 2023]
+// Version: v1.2.1 > Fix some bugs. [Dec 13, 2023]
